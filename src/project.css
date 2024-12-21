@@ -1,0 +1,40 @@
+.txtfont{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 50px;
+    
+}
+.title{
+    border-bottom: #fe3e3e solid 2px;
+}
+.proimg{
+    border-radius: 50%;
+    border: #fe3e3e solid 10px;
+    width: 370px;
+    height: 370px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    animation: floating 3s ease-in-out infinite;
+}
+.txtfontt{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 100px;
+}
+
+
+@keyframes floating{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.prote{
+    align-content: center;
+    
+}
+.protext{
+    padding-top: 55px;
+}

@@ -1,0 +1,20 @@
+.ab{
+    border-bottom: #fe3e3e solid 2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.li{
+    padding-top: 20px;
+}
+.about{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.abimg{
+    align-content: center;
+}
+.abimge{
+    padding-left: 200px;
+}
+.linefont{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

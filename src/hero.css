@@ -1,0 +1,30 @@
+.bg{
+    background-image: linear-gradient(
+        90deg,
+  hsl(0deg 99% 62%) 1%,
+  hsl(0deg 99% 61%) 23%,
+  hsl(0deg 99% 61%) 31%,
+  hsl(0deg 99% 60%) 37%,
+  hsl(0deg 99% 59%) 43%,
+  hsl(0deg 100% 58%) 48%,
+  hsl(0deg 100% 57%) 54%,
+  hsl(0deg 100% 56%) 62%,
+  hsl(0deg 100% 54%) 72%,
+  hsl(0deg 100% 50%) 100%
+    );
+}
+.aline{
+    align-content: center;
+}
+.tc{
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.marg{
+    margin-left: 30%;
+}
+.wavewi{
+    padding-top: 100px;
+    width: 100%;
+}
